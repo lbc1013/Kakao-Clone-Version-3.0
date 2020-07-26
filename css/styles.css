@@ -1,0 +1,15 @@
+@import "reset.css";
+@import "status-bar.css";
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap");
+@import "header.css";
+
+body {
+  background-color: white;
+  padding: 10px 20px;
+  color: #020202;
+  font-family: "open sans";
+}
+
+a {
+  color: inherit;
+}
