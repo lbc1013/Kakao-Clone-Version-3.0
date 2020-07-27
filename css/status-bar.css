@@ -10,8 +10,3 @@
 .status-bar .status-bar_battery-level {
   margin-left: 5px;
 }
-
-.header {
-  display: flex;
-  justify-content: space-between;
-}

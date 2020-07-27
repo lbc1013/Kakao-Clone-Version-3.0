@@ -2,6 +2,11 @@
 @import "status-bar.css";
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap");
 @import "header.css";
+@import "nav-bar.css";
+
+* {
+  box-sizing: border-box;
+}
 
 body {
   background-color: white;
