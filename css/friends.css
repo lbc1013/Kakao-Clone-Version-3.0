@@ -1,0 +1,10 @@
+.friends .friends_column {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.friends .friends_avatar {
+  width: 50px;
+  border-radius: 35%;
+}
