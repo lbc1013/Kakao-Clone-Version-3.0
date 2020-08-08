@@ -3,8 +3,32 @@
   justify-content: space-between;
   align-items: center;
 }
+.header_header-column .header_icon {
+  font-size: 15px;
+}
 
 .friends .friends_avatar {
-  width: 50px;
-  border-radius: 35%;
+  width: 55px;
+  height: 55px;
+  border-radius: 25px;
+  margin-right: 20px;
+}
+
+.friends_friends_friends-lg {
+  display: flex;
+  align-items: center;
+}
+.friends_name {
+  display: flex;
+  margin-left: -10px;
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.friends_status_first {
+  display: flex;
+  margin-left: -10px;
+  font-size: 12px;
+  margin-top: 6px;
+  color: rgba(0, 0, 0, 0.5);
 }
