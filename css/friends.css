@@ -8,8 +8,8 @@
 }
 
 .friends .friends_avatar {
-  width: 55px;
-  height: 55px;
+  width: 65px;
+  height: 60px;
   border-radius: 25px;
   margin-right: 20px;
 }
@@ -31,4 +31,9 @@
   font-size: 12px;
   margin-top: 6px;
   color: rgba(0, 0, 0, 0.5);
+  margin-bottom: 10px;
+}
+
+.friends_header {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
